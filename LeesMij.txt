@@ -1,0 +1,10 @@
+Last updated today.
+Today means friday 15th of July.
+
+Now it's monday. Have a nice working week.
+<<<<<<< HEAD
+Adding this second line in the Demo project clone .
+=======
+
+Adding this second line in the GitHub project clone .
+>>>>>>> 248319d83dcfe9e9cb850374907cc5971539f616
