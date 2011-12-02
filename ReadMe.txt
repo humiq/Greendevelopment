@@ -1,1 +1,1 @@
-This project is hosted on GITHub.
+This project is hosted on GITHub under the Humiq Account.
